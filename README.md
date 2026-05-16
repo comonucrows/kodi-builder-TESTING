@@ -1,4 +1,4 @@
-# Kodi Android APK Builder 2
+# Kodi Android APK Builder 
 
 > **Testing Notice**
 > This repository is for code testing only.
