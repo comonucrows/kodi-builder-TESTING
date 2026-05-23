@@ -1,4 +1,4 @@
-# Kodi Android APK Builder $$$$$$
+# Kodi Android APK Builder 
 
 # Kodi Android APK Builder 
 
